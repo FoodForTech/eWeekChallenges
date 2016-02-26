@@ -34,4 +34,4 @@ func greatestAdjacentMultipler(adjacentNumberCount: Int) -> String {
     return String("\(maxValue) with digits \(maxValueString)")
 }
 
-greatestAdjacentMultipler(13) // 13: 23,514,624,000 with digits 5576689664895
+greatestAdjacentMultipler(27) // 13: 23,514,624,000 with digits 5576689664895
